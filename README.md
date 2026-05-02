@@ -7,4 +7,4 @@ A CLI tool to quickly view and analyze data from a CSV file using pandas.
 git clone https://github.com/ki-bun/csvstat.git
 cd csvstat/
 ```
-2. Run the python file with `python csvstat.py [filename.csv]`
+2. Run the python script with `python csvstat.py [filename.csv]`
